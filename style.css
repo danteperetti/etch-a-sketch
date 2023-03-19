@@ -5,3 +5,8 @@ body {
     display: flex;
     width: 830px;
 }
+.box {
+    width: 45px;
+    height: 45px;
+    border: 2px solid #000000;
+}
