@@ -1,4 +1,5 @@
 const container = document.getElementById('container');
+const btn = document.getElementById('btn');
 function makeGrid(size) {
     const boxCount = size**2;
     for (let i = 0; i < boxCount; i++) {
